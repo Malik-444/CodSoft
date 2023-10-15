@@ -6,6 +6,7 @@ This is a simple calculator app built with React and Vite.
 Technologies I used: 
 
 1)React
+
 2)Vite
 
 How to use: 
@@ -24,9 +25,13 @@ Open the app in your browser at http://localhost:3000
 How to contribute
 
 1)Fork the repository.
+
 2)Create a new branch for your changes.
+
 3)Make your changes and commit them.
+
 4)Push your changes to your fork.
+
 5)Create a pull request to the main repository.
 
 License :
